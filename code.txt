@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MOmadmad Khairul Sarkar</title>
+</head>
+<body>
+    <hr>
+    
+    <h3 style="font-size: 20px; background-color: gainsboro; text-align: center;">Curriculum Vitae Of Mohammad Khairul Sarkar</h3>
+    
+
+      <img src="picture/O39.jpg" alt="picture of khairul" width="150px">
+
+         <h4><u>Contact Address:</u></h4>
+
+         <p>Faridar Para, Waresh Bari <br>
+           
+              Chandgaon, Chattogram <br>
+
+                Cell:(+088)1882778005, (+088) 17791340058 <br>
+
+                  E-mail: khirulsarkar777@gmail.com <br>
+         
+         </p>
+
+         <h3 style="font-size: 20px; background-color: gainsboro; text-align: center;">Career Objective</h3>
+        
+         <p> A highly organized and hard-working individual looking for a responsible to gain practical experiencem.</p>
+
+         <h3 style="font-size: 20px; background-color: gainsboro; text-align: center;">Academic Qualification</h3>
+
+         
+         <h4 style="font-size: 16px;"><u>Secondary School Certificate (SSC)</u></h4>
+
+         Institution         : Chandgaon NMC Adarsha High School <br>
+         Board               : Chattogram <br>
+         Group               : Business studies <br>
+         GPA                 : 4.50 (Out OF 5.00) <br>
+         Year Of Pass        : 2020 <br>
+
+         <h4 style="font-size: 16px;"><u>Junior School Certificate (JSC)</u></h4>
+
+         Institution         : Chandgaon NMC Adarsha High School <br>
+         Board               : Chattogram <br>
+         Group               : <br>
+         GPA                 : 4.00 (Out Of 5.00) <br>
+         Year Of Pass        : 2018 <br>
+
+         <h4 style="font-size: 16px;"><u>Primary School Certificate (PSC)</u></h4>
+
+         Institution         : Wapda Colony Government Primary School <br>
+         Board               : Chattogram <br>
+         Group               : <br>
+         GPA                 : 4.37 (Out Of 5.00) <br>
+         Year Of Pass        : 2015 <br>
+
+
+         <h3 style="font-size: 20px; background-color: gainsboro; text-align: center;">Experience</h3>
+
+
+         <h4 style="font-size: 16px;"><u>Counter Server/Cashier</u></h4>
+
+         Global Flatbread Cafe <br>
+         <p style="font-size: 10px;">08/2019-Present</p>
+         
+         <ul>
+              <li>Assisting with the assembly of guest food and coffe orders.</li>
+              <li>Maintaining order of counter,displays,,tables, and washrooms.</li>
+              <li>Accurately entering orders into a point of sale (POS) system and processing payments.</li>
+              <li>Greeting guests and helping them select food and beverage items using menu knowledge.</li>
+         </ul>
+
+         <hr>
+</body>
+</html>
